@@ -4,3 +4,8 @@ We have developed an interactive museum featuring 3D images of real exoplanets. 
 
 ## Project Demonstration
 https://exoplanetas-3d-j17bl1w.gamma.site/
+## Project
+https://drive.google.com/drive/folders/13OHEOp3pBygkXjEJHh3L-yf-K2rORhTL
+## Project Details
+
+This project offers a virtual tour in an interactive planetarium, simulated as a hypothetical spacecraft, where two exoplanet systems can be explored: Trappist-1 and Kepler-90. In addition, these systems can be viewed in rotation from the outside, providing the user with a more recreational experience. On the other hand, there is a room dedicated to exoplanet detection methods that, through the use of computers, mobile phones and the VR experience, will allow different communities to learn more about these planetary systems, offering innovative learning through technology that we can take to the different areas where they reside.
